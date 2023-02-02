@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 📊 Github contribution stats 📊  
-[![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyT26&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/ivyT26/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivyT26&layout=compact)](https://github.com/ivyT26/github-readme-stats)
+[![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyT26&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/ivyT26/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivyT26&langs_count=10)](https://github.com/ivyT26/github-readme-stats)  
 
 <br>
 
